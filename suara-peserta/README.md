@@ -1,2 +1,3 @@
 # Kesan Pesan Pelatihan GIT
-Bikin dokumen kesan-pesan [nama-kesan-pesan].txt di folder ini 
+pesan kesannya: semoga ada kegiatan pelatihan lagi, dan untuk pemateri sangat keren
+
